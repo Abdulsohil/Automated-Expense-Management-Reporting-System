@@ -1,0 +1,31 @@
+employee_name,employee_email,expense_date,category,vendor,description,amount,receipt_ref
+Shaik Abdul Sohial,sohial@example.com,2026-08-03,Travel,IndiGo Airlines,Flight to Bengaluru for client workshop,8450.00,INV-FL-9001
+Shaik Abdul Sohial,sohial@example.com,2026-08-04,Accommodation,SkyLine Hotels,Two nights near client office,9408.00,INV-2026-0142
+Shaik Abdul Sohial,sohial@example.com,2026-08-05,Meals,Cafe Mocha,Breakfast during client visit,620.00,RCP-8821
+Mohamed Waseem,waseem@example.com,2026-08-06,Travel,Uber,Airport transfer,1180.00,UBR-55120
+Mohamed Waseem,waseem@example.com,2026-08-11,Software,JetBrains,Annual IDE licence renewal,18900.00,JB-2026-77
+Mohamed Waseem,waseem@example.com,2026-08-12,Telecom,Airtel,Monthly broadband for remote work,1499.00,ATL-0912
+Shaik Abdul Sohial,sohial@example.com,2026-08-18,Office Supplies,Staples India,Printer toner and stationery,3250.00,STP-4410
+Priya Narayan,priya.n@example.com,2026-08-19,Training,Coursera,Data engineering specialisation,12400.00,CRS-33110
+Priya Narayan,priya.n@example.com,2026-08-20,Meals,Swiggy,Team lunch during sprint review,2180.00,SWG-77201
+Rahul Mehta,rahul.m@example.com,2026-08-24,Travel,IRCTC,Train fare to Hyderabad,2340.00,IRC-66201
+Rahul Mehta,rahul.m@example.com,2026-08-25,Accommodation,OYO Rooms,One night stay Hyderabad,2899.00,OYO-1182
+Mohamed Waseem,waseem@example.com,2026-09-01,Client Entertainment,The Terrace,Dinner with prospective client,7650.00,TER-9912
+Shaik Abdul Sohial,sohial@example.com,2026-09-02,Software,Figma,Design seat for the quarter,4800.00,FIG-2026-Q3
+Priya Narayan,priya.n@example.com,2026-09-05,Travel,Ola Cabs,Local travel to vendor office,480.00,OLA-33442
+Rahul Mehta,rahul.m@example.com,2026-09-08,Miscellaneous,Local Courier,Hardware shipment to branch,860.00,CUR-2210
+Mohamed Waseem,waseem@example.com,2026-09-09,Meals,Zomato,Late working dinner,540.00,ZMT-44120
+Shaik Abdul Sohial,sohial@example.com,2026-09-14,Accommodation,Marriott,Conference stay,11200.00,MAR-7781
+Shaik Abdul Sohial,sohial@example.com,2026-09-15,Training,TechConf 2026,Conference delegate pass,14500.00,TC-2026-441
+Priya Narayan,priya.n@example.com,2026-09-16,Telecom,Jio,Mobile data top-up for field work,999.00,JIO-10021
+Rahul Mehta,rahul.m@example.com,2026-09-18,Office Supplies,Amazon Business,Ergonomic chair for home office,7400.00,AMZ-99120
+Mohamed Waseem,waseem@example.com,2026-09-22,Travel,Rapido,Daily commute to client site,320.00,RPD-7781
+Mohamed Waseem,waseem@example.com,2026-09-22,Travel,Rapido,Daily commute to client site,320.00,RPD-7782
+Priya Narayan,priya.n@example.com,2026-09-25,Software,Amazon Web Services,Sandbox environment for POC,22600.00,AWS-SEP26
+Shaik Abdul Sohial,sohial@example.com,2026-09-28,Meals,Canteen,Working lunch with QA team,410.00,CNT-1121
+Rahul Mehta,rahul.m@example.com,2026-09-30,Client Entertainment,Gift Gallery,Client appreciation hamper,5000.00,GFT-0043
+Mohamed Waseem,waseem@example.com,2026-10-01,Travel,IndiGo Airlines,Return flight after client review,9100.00,INV-FL-9044
+Shaik Abdul Sohial,sohial@example.com,2026-10-02,Miscellaneous,Parking Services,Airport parking three days,1450.00,PRK-5521
+Priya Narayan,priya.n@example.com,2026-10-05,Meals,Restaurant Blu,Dinner with offshore team,3100.00,
+Rahul Mehta,rahul.m@example.com,2026-10-06,Telecom,Vodafone,International roaming pack,2750.00,VOD-8891
+Mohamed Waseem,waseem@example.com,2026-10-08,Office Supplies,Staples India,Whiteboard markers and notepads,890.00,STP-4502

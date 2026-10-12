@@ -1,0 +1,15 @@
+# Core application
+streamlit>=1.37.0
+pandas>=2.1.0
+plotly>=5.20.0
+
+# Excel and PDF export
+openpyxl>=3.1.2
+reportlab>=4.1.0
+
+# AI integration (optional at runtime - the app falls back to rules without a key)
+google-generativeai>=0.7.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
